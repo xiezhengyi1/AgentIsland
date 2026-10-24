@@ -1,0 +1,11 @@
+# Swift build output
+.build/
+.swiftpm/
+*.o
+
+# Built app bundle (rebuild with ./build-app.sh)
+AgentIsland.app/
+
+# Local project settings and macOS metadata
+.claude/
+.DS_Store
